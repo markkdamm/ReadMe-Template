@@ -24,7 +24,9 @@ The following prerequisites mandatory for the download and usage of this package
 
 This blank readme template can be downloaded using ``Github`` and ``Git Bash``:
 
-`` git clone https://github.com/markkdamm/ReadMe-Template.git ``
+```console
+git clone https://github.com/markkdamm/ReadMe-Template.git 
+``` 
 
 ## Deployment
 
