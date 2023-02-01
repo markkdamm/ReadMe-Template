@@ -1,3 +1,4 @@
+![readme template](https://icons-for-free.com/iconfiles/png/64/markdown-1324440192952708824.png)
 # README template
 
 This is a template for a README.md file in Markdown language. It includes information about the project, getting started instructions, prerequisites, installation steps, running tests, deployment details, built with tools, contribution guidelines, versioning, authors, license, and acknowledgments. This template can be used as a starting point for creating a comprehensive README.md file for a Github repository.
