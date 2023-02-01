@@ -1,6 +1,6 @@
-# Project Title
+# README template
 
-A brief description of the project and its purpose.
+This is a template for a README.md file in Markdown language. It includes information about the project, getting started instructions, prerequisites, installation steps, running tests, deployment details, built with tools, contribution guidelines, versioning, authors, license, and acknowledgments. This template can be used as a starting point for creating a comprehensive README.md file for a Github repository.
 
 ## Getting Started
 
@@ -8,28 +8,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## Running the tests
-
-Explain how to run the automated tests for this system.
-
 ### Break down into end to end tests
 
 Explain what these tests test and why
 
 ### Prerequisites
+The following prerequisites mandatory for the download and usage of this package:
 
-What things you need to install the software and how to install them.
-
-### And coding style tests
-
-Explain what these tests test and why
+- Github
+- Git Bash
+- A great project to append this file to
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
+This blank readme template can be downloaded using ``Github`` or ``Git Bash``:
+`` function ``
 
 ## Deployment
 
@@ -61,6 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [*Markdown Basic Syntax Guide*](https://www.markdownguide.org/basic-syntax/)
+* [*Github Markdown Syntax Code Formating*](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
