@@ -3,6 +3,8 @@
 
 This is a template for a README.md file in Markdown language. It includes information about the project, getting started instructions, prerequisites, installation steps, running tests, deployment details, built with tools, contribution guidelines, versioning, authors, license, and acknowledgments. This template can be used as a starting point for creating a comprehensive README.md file for a Github repository.
 
+<a href="https://www.buymeacoffee.com/markdamm"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=markdamm&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ## Getting Started
 
 To use this template for your Github repository, follow these simple steps:
